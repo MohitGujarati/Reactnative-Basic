@@ -1,0 +1,1799 @@
+[
+    {
+        "id": 1,
+        "name": "Bulbasaur",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+        "type": "Grass",
+        "hp": 45,
+        "moves": [
+            "Tackle",
+            "Vine Whip",
+            "Growl",
+            "Razor Leaf"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Venusaur",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+        "type": "Grass",
+        "hp": 80,
+        "moves": [
+            "Solar Beam",
+            "Sludge Bomb",
+            "Growth",
+            "Sleep Powder"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Charmander",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+        "type": "Fire",
+        "hp": 39,
+        "moves": [
+            "Scratch",
+            "Ember",
+            "Growl",
+            "Dragon Breath"
+        ],
+        "weaknesses": [
+            "Water",
+            "Ground",
+            "Rock"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Charizard",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+        "type": "Fire",
+        "hp": 78,
+        "moves": [
+            "Flamethrower",
+            "Air Slash",
+            "Dragon Claw",
+            "Fire Blast"
+        ],
+        "weaknesses": [
+            "Water",
+            "Electric",
+            "Rock"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Squirtle",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+        "type": "Water",
+        "hp": 44,
+        "moves": [
+            "Tackle",
+            "Water Gun",
+            "Bubble",
+            "Bite"
+        ],
+        "weaknesses": [
+            "Grass",
+            "Electric"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Blastoise",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+        "type": "Water",
+        "hp": 79,
+        "moves": [
+            "Hydro Pump",
+            "Surf",
+            "Ice Beam",
+            "Skull Bash"
+        ],
+        "weaknesses": [
+            "Grass",
+            "Electric"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+        "type": "Electric",
+        "hp": 35,
+        "moves": [
+            "Thunderbolt",
+            "Quick Attack",
+            "Iron Tail",
+            "Electro Ball"
+        ],
+        "weaknesses": [
+            "Ground"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Raichu",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
+        "type": "Electric",
+        "hp": 60,
+        "moves": [
+            "Thunderbolt",
+            "Spark",
+            "Thunder Wave",
+            "Brick Break"
+        ],
+        "weaknesses": [
+            "Ground"
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Jigglypuff",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
+        "type": "Normal",
+        "hp": 115,
+        "moves": [
+            "Sing",
+            "Pound",
+            "Hyper Voice",
+            "Disarming Voice"
+        ],
+        "weaknesses": [
+            "Poison",
+            "Steel"
+        ]
+    },
+    {
+        "id": 52,
+        "name": "Meowth",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png",
+        "type": "Normal",
+        "hp": 40,
+        "moves": [
+            "Pay Day",
+            "Scratch",
+            "Bite",
+            "Fury Swipes"
+        ],
+        "weaknesses": [
+            "Fighting"
+        ]
+    },
+    {
+        "id": 54,
+        "name": "Psyduck",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
+        "type": "Water",
+        "hp": 50,
+        "moves": [
+            "Water Gun",
+            "Confusion",
+            "Zen Headbutt",
+            "Scratch"
+        ],
+        "weaknesses": [
+            "Grass",
+            "Electric"
+        ]
+    },
+    {
+        "id": 59,
+        "name": "Arcanine",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png",
+        "type": "Fire",
+        "hp": 90,
+        "moves": [
+            "Extreme Speed",
+            "Flare Blitz",
+            "Flame Wheel",
+            "Crunch"
+        ],
+        "weaknesses": [
+            "Water",
+            "Ground",
+            "Rock"
+        ]
+    },
+    {
+        "id": 65,
+        "name": "Alakazam",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
+        "type": "Psychic",
+        "hp": 55,
+        "moves": [
+            "Psychic",
+            "Psybeam",
+            "Shadow Ball",
+            "Recover"
+        ],
+        "weaknesses": [
+            "Bug",
+            "Ghost",
+            "Dark"
+        ]
+    },
+    {
+        "id": 68,
+        "name": "Machamp",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png",
+        "type": "Fighting",
+        "hp": 90,
+        "moves": [
+            "Dynamic Punch",
+            "Cross Chop",
+            "Bullet Punch",
+            "Rock Slide"
+        ],
+        "weaknesses": [
+            "Flying",
+            "Psychic",
+            "Fairy"
+        ]
+    },
+    {
+        "id": 94,
+        "name": "Gengar",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
+        "type": "Ghost",
+        "hp": 60,
+        "moves": [
+            "Shadow Ball",
+            "Sludge Bomb",
+            "Dark Pulse",
+            "Hypnosis"
+        ],
+        "weaknesses": [
+            "Ghost",
+            "Dark",
+            "Psychic"
+        ]
+    },
+    {
+        "id": 130,
+        "name": "Gyarados",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png",
+        "type": "Water",
+        "hp": 95,
+        "moves": [
+            "Hydro Pump",
+            "Dragon Dance",
+            "Crunch",
+            "Ice Fang"
+        ],
+        "weaknesses": [
+            "Electric",
+            "Rock"
+        ]
+    },
+    {
+        "id": 131,
+        "name": "Lapras",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
+        "type": "Water",
+        "hp": 130,
+        "moves": [
+            "Ice Beam",
+            "Surf",
+            "Body Slam",
+            "Perish Song"
+        ],
+        "weaknesses": [
+            "Grass",
+            "Electric",
+            "Fighting",
+            "Rock"
+        ]
+    },
+    {
+        "id": 133,
+        "name": "Eevee",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
+        "type": "Normal",
+        "hp": 55,
+        "moves": [
+            "Swift",
+            "Quick Attack",
+            "Bite",
+            "Double-Edge"
+        ],
+        "weaknesses": [
+            "Fighting"
+        ]
+    },
+    {
+        "id": 134,
+        "name": "Vaporeon",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png",
+        "type": "Water",
+        "hp": 130,
+        "moves": [
+            "Hydro Pump",
+            "Aqua Ring",
+            "Acid Armor",
+            "Ice Beam"
+        ],
+        "weaknesses": [
+            "Grass",
+            "Electric"
+        ]
+    },
+    {
+        "id": 135,
+        "name": "Jolteon",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png",
+        "type": "Electric",
+        "hp": 65,
+        "moves": [
+            "Thunderbolt",
+            "Volt Switch",
+            "Pin Missile",
+            "Quick Attack"
+        ],
+        "weaknesses": [
+            "Ground"
+        ]
+    },
+    {
+        "id": 136,
+        "name": "Flareon",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png",
+        "type": "Fire",
+        "hp": 65,
+        "moves": [
+            "Flare Blitz",
+            "Fire Fang",
+            "Smog",
+            "Bite"
+        ],
+        "weaknesses": [
+            "Water",
+            "Ground",
+            "Rock"
+        ]
+    },
+    {
+        "id": 143,
+        "name": "Snorlax",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
+        "type": "Normal",
+        "hp": 160,
+        "moves": [
+            "Body Slam",
+            "Crunch",
+            "Heavy Slam",
+            "Rest"
+        ],
+        "weaknesses": [
+            "Fighting"
+        ]
+    },
+    {
+        "id": 144,
+        "name": "Articuno",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png",
+        "type": "Ice",
+        "hp": 90,
+        "moves": [
+            "Ice Beam",
+            "Blizzard",
+            "Hurricane",
+            "Roost"
+        ],
+        "weaknesses": [
+            "Rock",
+            "Fire",
+            "Electric",
+            "Steel"
+        ]
+    },
+    {
+        "id": 145,
+        "name": "Zapdos",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png",
+        "type": "Electric",
+        "hp": 90,
+        "moves": [
+            "Thunderbolt",
+            "Drill Peck",
+            "Roost",
+            "Volt Switch"
+        ],
+        "weaknesses": [
+            "Ice",
+            "Rock"
+        ]
+    },
+    {
+        "id": 146,
+        "name": "Moltres",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png",
+        "type": "Fire",
+        "hp": 90,
+        "moves": [
+            "Flamethrower",
+            "Air Slash",
+            "Overheat",
+            "Roost"
+        ],
+        "weaknesses": [
+            "Rock",
+            "Water",
+            "Electric"
+        ]
+    },
+    {
+        "id": 149,
+        "name": "Dragonite",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
+        "type": "Dragon",
+        "hp": 91,
+        "moves": [
+            "Outrage",
+            "Dragon Dance",
+            "Hurricane",
+            "Extreme Speed"
+        ],
+        "weaknesses": [
+            "Ice",
+            "Dragon",
+            "Rock",
+            "Fairy"
+        ]
+    },
+    {
+        "id": 150,
+        "name": "Mewtwo",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
+        "type": "Psychic",
+        "hp": 106,
+        "moves": [
+            "Psystrike",
+            "Shadow Ball",
+            "Aura Sphere",
+            "Psychic"
+        ],
+        "weaknesses": [
+            "Bug",
+            "Ghost",
+            "Dark"
+        ]
+    },
+    {
+        "id": 151,
+        "name": "Mew",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png",
+        "type": "Psychic",
+        "hp": 100,
+        "moves": [
+            "Psychic",
+            "Ancient Power",
+            "Metronome",
+            "Transform"
+        ],
+        "weaknesses": [
+            "Bug",
+            "Ghost",
+            "Dark"
+        ]
+    },
+    {
+        "id": 154,
+        "name": "Meganium",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/154.png",
+        "type": "Grass",
+        "hp": 80,
+        "moves": [
+            "Petal Blizzard",
+            "Giga Drain",
+            "Reflect",
+            "Synthesis"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic",
+            "Bug"
+        ]
+    },
+    {
+        "id": 157,
+        "name": "Typhlosion",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png",
+        "type": "Fire",
+        "hp": 78,
+        "moves": [
+            "Eruption",
+            "Flamethrower",
+            "Swift",
+            "Rollout"
+        ],
+        "weaknesses": [
+            "Water",
+            "Ground",
+            "Rock"
+        ]
+    },
+    {
+        "id": 160,
+        "name": "Feraligatr",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/160.png",
+        "type": "Water",
+        "hp": 85,
+        "moves": [
+            "Hydro Pump",
+            "Crunch",
+            "Ice Punch",
+            "Slash"
+        ],
+        "weaknesses": [
+            "Grass",
+            "Electric"
+        ]
+    },
+    {
+        "id": 175,
+        "name": "Togepi",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/175.png",
+        "type": "Fairy",
+        "hp": 35,
+        "moves": [
+            "Metronome",
+            "Sweet Kiss",
+            "Charm",
+            "Yawn"
+        ],
+        "weaknesses": [
+            "Poison",
+            "Steel"
+        ]
+    },
+    {
+        "id": 196,
+        "name": "Espeon",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/196.png",
+        "type": "Psychic",
+        "hp": 65,
+        "moves": [
+            "Psychic",
+            "Psybeam",
+            "Morning Sun",
+            "Shadow Ball"
+        ],
+        "weaknesses": [
+            "Bug",
+            "Ghost",
+            "Dark"
+        ]
+    },
+    {
+        "id": 197,
+        "name": "Umbreon",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/197.png",
+        "type": "Dark",
+        "hp": 95,
+        "moves": [
+            "Dark Pulse",
+            "Foul Play",
+            "Moonlight",
+            "Confuse Ray"
+        ],
+        "weaknesses": [
+            "Fighting",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "id": 212,
+        "name": "Scizor",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/212.png",
+        "type": "Bug",
+        "hp": 70,
+        "moves": [
+            "Bullet Punch",
+            "X-Scissor",
+            "Swords Dance",
+            "Iron Head"
+        ],
+        "weaknesses": [
+            "Fire"
+        ]
+    },
+    {
+        "id": 243,
+        "name": "Raikou",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/243.png",
+        "type": "Electric",
+        "hp": 90,
+        "moves": [
+            "Thunderbolt",
+            "Discharge",
+            "Crunch",
+            "Extra Sensory"
+        ],
+        "weaknesses": [
+            "Ground"
+        ]
+    },
+    {
+        "id": 244,
+        "name": "Entei",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/244.png",
+        "type": "Fire",
+        "hp": 115,
+        "moves": [
+            "Sacred Fire",
+            "Eruption",
+            "Stomp",
+            "Bite"
+        ],
+        "weaknesses": [
+            "Water",
+            "Ground",
+            "Rock"
+        ]
+    },
+    {
+        "id": 245,
+        "name": "Suicune",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/245.png",
+        "type": "Water",
+        "hp": 100,
+        "moves": [
+            "Hydro Pump",
+            "Ice Beam",
+            "Mirror Coat",
+            "Aurora Beam"
+        ],
+        "weaknesses": [
+            "Grass",
+            "Electric"
+        ]
+    },
+    {
+        "id": 248,
+        "name": "Tyranitar",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/248.png",
+        "type": "Rock",
+        "hp": 100,
+        "moves": [
+            "Stone Edge",
+            "Crunch",
+            "Earthquake",
+            "Rock Slide"
+        ],
+        "weaknesses": [
+            "Fighting",
+            "Water",
+            "Grass",
+            "Ground",
+            "Steel",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "id": 249,
+        "name": "Lugia",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/249.png",
+        "type": "Psychic",
+        "hp": 106,
+        "moves": [
+            "Aeroblast",
+            "Psychic",
+            "Hydro Pump",
+            "Recover"
+        ],
+        "weaknesses": [
+            "Electric",
+            "Ice",
+            "Rock",
+            "Ghost",
+            "Dark"
+        ]
+    },
+    {
+        "id": 250,
+        "name": "Ho-Oh",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/250.png",
+        "type": "Fire",
+        "hp": 106,
+        "moves": [
+            "Sacred Fire",
+            "Brave Bird",
+            "Recover",
+            "Sunny Day"
+        ],
+        "weaknesses": [
+            "Rock",
+            "Water",
+            "Electric"
+        ]
+    },
+    {
+        "id": 251,
+        "name": "Celebi",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/251.png",
+        "type": "Grass",
+        "hp": 100,
+        "moves": [
+            "Magical Leaf",
+            "Psychic",
+            "Recover",
+            "Ancient Power"
+        ],
+        "weaknesses": [
+            "Bug",
+            "Fire",
+            "Ice",
+            "Poison",
+            "Flying",
+            "Ghost",
+            "Dark"
+        ]
+    },
+    {
+        "id": 254,
+        "name": "Sceptile",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254.png",
+        "type": "Grass",
+        "hp": 70,
+        "moves": [
+            "Leaf Blade",
+            "Giga Drain",
+            "X-Scissor",
+            "Quick Attack"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic",
+            "Bug"
+        ]
+    },
+    {
+        "id": 257,
+        "name": "Blaziken",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/257.png",
+        "type": "Fire",
+        "hp": 80,
+        "moves": [
+            "Blaze Kick",
+            "Sky Uppercut",
+            "Brave Bird",
+            "Bulk Up"
+        ],
+        "weaknesses": [
+            "Water",
+            "Ground",
+            "Flying",
+            "Psychic"
+        ]
+    },
+    {
+        "id": 260,
+        "name": "Swampert",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260.png",
+        "type": "Water",
+        "hp": 100,
+        "moves": [
+            "Earthquake",
+            "Muddy Water",
+            "Ice Beam",
+            "Hammer Arm"
+        ],
+        "weaknesses": [
+            "Grass"
+        ]
+    },
+    {
+        "id": 282,
+        "name": "Gardevoir",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png",
+        "type": "Psychic",
+        "hp": 68,
+        "moves": [
+            "Moonblast",
+            "Psychic",
+            "Shadow Ball",
+            "Calm Mind"
+        ],
+        "weaknesses": [
+            "Ghost",
+            "Poison",
+            "Steel"
+        ]
+    },
+    {
+        "id": 330,
+        "name": "Flygon",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/330.png",
+        "type": "Ground",
+        "hp": 80,
+        "moves": [
+            "Earthquake",
+            "Dragon Claw",
+            "Dragon Dance",
+            "Crunch"
+        ],
+        "weaknesses": [
+            "Ice",
+            "Dragon",
+            "Fairy"
+        ]
+    },
+    {
+        "id": 373,
+        "name": "Salamence",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/373.png",
+        "type": "Dragon",
+        "hp": 95,
+        "moves": [
+            "Dragon Claw",
+            "Flamethrower",
+            "Fly",
+            "Zen Headbutt"
+        ],
+        "weaknesses": [
+            "Ice",
+            "Dragon",
+            "Rock",
+            "Fairy"
+        ]
+    },
+    {
+        "id": 376,
+        "name": "Metagross",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/376.png",
+        "type": "Steel",
+        "hp": 80,
+        "moves": [
+            "Meteor Mash",
+            "Zen Headbutt",
+            "Earthquake",
+            "Bullet Punch"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ground",
+            "Ghost",
+            "Dark"
+        ]
+    },
+    {
+        "id": 382,
+        "name": "Kyogre",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/382.png",
+        "type": "Water",
+        "hp": 100,
+        "moves": [
+            "Origin Pulse",
+            "Ice Beam",
+            "Thunder",
+            "Surf"
+        ],
+        "weaknesses": [
+            "Grass",
+            "Electric"
+        ]
+    },
+    {
+        "id": 383,
+        "name": "Groudon",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/383.png",
+        "type": "Ground",
+        "hp": 100,
+        "moves": [
+            "Precipice Blades",
+            "Earthquake",
+            "Fire Punch",
+            "Solar Beam"
+        ],
+        "weaknesses": [
+            "Water",
+            "Grass",
+            "Ice"
+        ]
+    },
+    {
+        "id": 384,
+        "name": "Rayquaza",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/384.png",
+        "type": "Dragon",
+        "hp": 105,
+        "moves": [
+            "Dragon Ascent",
+            "Outrage",
+            "Extreme Speed",
+            "Hyper Beam"
+        ],
+        "weaknesses": [
+            "Ice",
+            "Dragon",
+            "Rock",
+            "Fairy"
+        ]
+    },
+    {
+        "id": 385,
+        "name": "Jirachi",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/385.png",
+        "type": "Steel",
+        "hp": 100,
+        "moves": [
+            "Doom Desire",
+            "Psychic",
+            "Zen Headbutt",
+            "Wish"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ground",
+            "Ghost",
+            "Dark"
+        ]
+    },
+    {
+        "id": 386,
+        "name": "Deoxys",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/386.png",
+        "type": "Psychic",
+        "hp": 50,
+        "moves": [
+            "Psycho Boost",
+            "Zen Headbutt",
+            "Superpower",
+            "Hyper Beam"
+        ],
+        "weaknesses": [
+            "Bug",
+            "Ghost",
+            "Dark"
+        ]
+    },
+    {
+        "id": 389,
+        "name": "Torterra",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/389.png",
+        "type": "Grass",
+        "hp": 95,
+        "moves": [
+            "Wood Hammer",
+            "Earthquake",
+            "Razor Leaf",
+            "Rock Climb"
+        ],
+        "weaknesses": [
+            "Ice",
+            "Fire",
+            "Flying",
+            "Bug"
+        ]
+    },
+    {
+        "id": 392,
+        "name": "Infernape",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/392.png",
+        "type": "Fire",
+        "hp": 76,
+        "moves": [
+            "Flare Blitz",
+            "Close Combat",
+            "Mach Punch",
+            "Flamethrower"
+        ],
+        "weaknesses": [
+            "Water",
+            "Ground",
+            "Flying",
+            "Psychic"
+        ]
+    },
+    {
+        "id": 395,
+        "name": "Empoleon",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/395.png",
+        "type": "Water",
+        "hp": 84,
+        "moves": [
+            "Hydro Pump",
+            "Flash Cannon",
+            "Surf",
+            "Drill Peck"
+        ],
+        "weaknesses": [
+            "Electric",
+            "Fighting",
+            "Ground"
+        ]
+    },
+    {
+        "id": 445,
+        "name": "Garchomp",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/445.png",
+        "type": "Dragon",
+        "hp": 108,
+        "moves": [
+            "Dragon Claw",
+            "Earthquake",
+            "Stone Edge",
+            "Swords Dance"
+        ],
+        "weaknesses": [
+            "Ice",
+            "Dragon",
+            "Fairy"
+        ]
+    },
+    {
+        "id": 448,
+        "name": "Lucario",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png",
+        "type": "Fighting",
+        "hp": 70,
+        "moves": [
+            "Aura Sphere",
+            "Close Combat",
+            "Extreme Speed",
+            "Flash Cannon"
+        ],
+        "weaknesses": [
+            "Fighting",
+            "Ground",
+            "Fire"
+        ]
+    },
+    {
+        "id": 475,
+        "name": "Gallade",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/475.png",
+        "type": "Psychic",
+        "hp": 68,
+        "moves": [
+            "Psycho Cutter",
+            "Close Combat",
+            "Night Slash",
+            "Swords Dance"
+        ],
+        "weaknesses": [
+            "Flying",
+            "Ghost",
+            "Fairy"
+        ]
+    },
+    {
+        "id": 483,
+        "name": "Dialga",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/483.png",
+        "type": "Steel",
+        "hp": 100,
+        "moves": [
+            "Roar of Time",
+            "Flash Cannon",
+            "Earth Power",
+            "Dragon Pulse"
+        ],
+        "weaknesses": [
+            "Fighting",
+            "Ground"
+        ]
+    },
+    {
+        "id": 484,
+        "name": "Palkia",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/484.png",
+        "type": "Water",
+        "hp": 90,
+        "moves": [
+            "Spacial Rend",
+            "Hydro Pump",
+            "Dragon Pulse",
+            "Aura Sphere"
+        ],
+        "weaknesses": [
+            "Dragon",
+            "Fairy"
+        ]
+    },
+    {
+        "id": 487,
+        "name": "Giratina",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/487.png",
+        "type": "Ghost",
+        "hp": 150,
+        "moves": [
+            "Shadow Force",
+            "Dragon Claw",
+            "Aura Sphere",
+            "Will-O-Wisp"
+        ],
+        "weaknesses": [
+            "Ghost",
+            "Dark",
+            "Ice",
+            "Dragon",
+            "Fairy"
+        ]
+    },
+    {
+        "id": 491,
+        "name": "Darkrai",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/491.png",
+        "type": "Dark",
+        "hp": 70,
+        "moves": [
+            "Dark Void",
+            "Dark Pulse",
+            "Dream Eater",
+            "Shadow Ball"
+        ],
+        "weaknesses": [
+            "Fighting",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "id": 493,
+        "name": "Arceus",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493.png",
+        "type": "Normal",
+        "hp": 120,
+        "moves": [
+            "Judgment",
+            "Extreme Speed",
+            "Earth Power",
+            "Recover"
+        ],
+        "weaknesses": [
+            "Fighting"
+        ]
+    },
+    {
+        "id": 494,
+        "name": "Victini",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/494.png",
+        "type": "Fire",
+        "hp": 100,
+        "moves": [
+            "V-create",
+            "Searing Shot",
+            "Zen Headbutt",
+            "Psychic"
+        ],
+        "weaknesses": [
+            "Water",
+            "Ground",
+            "Rock",
+            "Ghost",
+            "Dark"
+        ]
+    },
+    {
+        "id": 497,
+        "name": "Serperior",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/497.png",
+        "type": "Grass",
+        "hp": 75,
+        "moves": [
+            "Leaf Storm",
+            "Giga Drain",
+            "Dragon Pulse",
+            "Leech Seed"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic",
+            "Bug"
+        ]
+    },
+    {
+        "id": 500,
+        "name": "Emboar",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/500.png",
+        "type": "Fire",
+        "hp": 110,
+        "moves": [
+            "Flare Blitz",
+            "Hammer Arm",
+            "Head Smash",
+            "Wild Charge"
+        ],
+        "weaknesses": [
+            "Water",
+            "Ground",
+            "Flying",
+            "Psychic"
+        ]
+    },
+    {
+        "id": 503,
+        "name": "Samurott",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/503.png",
+        "type": "Water",
+        "hp": 95,
+        "moves": [
+            "Hydro Pump",
+            "Razor Shell",
+            "Megahorn",
+            "Aqua Jet"
+        ],
+        "weaknesses": [
+            "Grass",
+            "Electric"
+        ]
+    },
+    {
+        "id": 571,
+        "name": "Zoroark",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/571.png",
+        "type": "Dark",
+        "hp": 60,
+        "moves": [
+            "Night Daze",
+            "Foul Play",
+            "Sludge Bomb",
+            "Agility"
+        ],
+        "weaknesses": [
+            "Fighting",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "id": 635,
+        "name": "Hydreigon",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/635.png",
+        "type": "Dark",
+        "hp": 92,
+        "moves": [
+            "Draco Meteor",
+            "Dark Pulse",
+            "Flash Cannon",
+            "Fire Blast"
+        ],
+        "weaknesses": [
+            "Fairy",
+            "Fighting",
+            "Bug",
+            "Ice",
+            "Dragon"
+        ]
+    },
+    {
+        "id": 643,
+        "name": "Reshiram",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png",
+        "type": "Dragon",
+        "hp": 100,
+        "moves": [
+            "Blue Flare",
+            "Fusion Flare",
+            "Dragon Pulse",
+            "Draco Meteor"
+        ],
+        "weaknesses": [
+            "Ground",
+            "Rock",
+            "Dragon"
+        ]
+    },
+    {
+        "id": 644,
+        "name": "Zekrom",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/644.png",
+        "type": "Dragon",
+        "hp": 100,
+        "moves": [
+            "Bolt Strike",
+            "Fusion Bolt",
+            "Dragon Claw",
+            "Outrage"
+        ],
+        "weaknesses": [
+            "Ground",
+            "Ice",
+            "Dragon",
+            "Fairy"
+        ]
+    },
+    {
+        "id": 646,
+        "name": "Kyurem",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/646.png",
+        "type": "Dragon",
+        "hp": 125,
+        "moves": [
+            "Glaciate",
+            "Blizzard",
+            "Dragon Pulse",
+            "Ice Beam"
+        ],
+        "weaknesses": [
+            "Fighting",
+            "Rock",
+            "Steel",
+            "Dragon",
+            "Fairy"
+        ]
+    },
+    {
+        "id": 652,
+        "name": "Chesnaught",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/652.png",
+        "type": "Grass",
+        "hp": 88,
+        "moves": [
+            "Spiky Shield",
+            "Wood Hammer",
+            "Hammer Arm",
+            "Leech Seed"
+        ],
+        "weaknesses": [
+            "Flying",
+            "Fire",
+            "Ice",
+            "Poison",
+            "Psychic",
+            "Fairy"
+        ]
+    },
+    {
+        "id": 655,
+        "name": "Delphox",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/655.png",
+        "type": "Fire",
+        "hp": 75,
+        "moves": [
+            "Mystical Fire",
+            "Psychic",
+            "Fire Blast",
+            "Shadow Ball"
+        ],
+        "weaknesses": [
+            "Water",
+            "Ground",
+            "Rock",
+            "Ghost",
+            "Dark"
+        ]
+    },
+    {
+        "id": 658,
+        "name": "Greninja",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/658.png",
+        "type": "Water",
+        "hp": 72,
+        "moves": [
+            "Water Shuriken",
+            "Hydro Pump",
+            "Night Slash",
+            "Dark Pulse"
+        ],
+        "weaknesses": [
+            "Grass",
+            "Electric",
+            "Fighting",
+            "Bug",
+            "Fairy"
+        ]
+    },
+    {
+        "id": 700,
+        "name": "Sylveon",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/700.png",
+        "type": "Fairy",
+        "hp": 95,
+        "moves": [
+            "Moonblast",
+            "Hyper Voice",
+            "Draining Kiss",
+            "Quick Attack"
+        ],
+        "weaknesses": [
+            "Poison",
+            "Steel"
+        ]
+    },
+    {
+        "id": 716,
+        "name": "Xerneas",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/716.png",
+        "type": "Fairy",
+        "hp": 126,
+        "moves": [
+            "Geomancy",
+            "Moonblast",
+            "Horn Leech",
+            "Thunderbolt"
+        ],
+        "weaknesses": [
+            "Poison",
+            "Steel"
+        ]
+    },
+    {
+        "id": 717,
+        "name": "Yveltal",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/717.png",
+        "type": "Dark",
+        "hp": 126,
+        "moves": [
+            "Oblivion Wing",
+            "Dark Pulse",
+            "Sucker Punch",
+            "Hurricane"
+        ],
+        "weaknesses": [
+            "Electric",
+            "Ice",
+            "Rock",
+            "Fairy"
+        ]
+    },
+    {
+        "id": 718,
+        "name": "Zygarde",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/718.png",
+        "type": "Dragon",
+        "hp": 108,
+        "moves": [
+            "Thousand Arrows",
+            "Outrage",
+            "Earthquake",
+            "Extreme Speed"
+        ],
+        "weaknesses": [
+            "Ice",
+            "Dragon",
+            "Fairy"
+        ]
+    },
+    {
+        "id": 724,
+        "name": "Decidueye",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/724.png",
+        "type": "Grass",
+        "hp": 78,
+        "moves": [
+            "Spirit Shackle",
+            "Leaf Blade",
+            "Brave Bird",
+            "Shadow Sneak"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Ghost",
+            "Dark"
+        ]
+    },
+    {
+        "id": 727,
+        "name": "Incineroar",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/727.png",
+        "type": "Fire",
+        "hp": 95,
+        "moves": [
+            "Darkest Lariat",
+            "Flare Blitz",
+            "Fake Out",
+            "U-turn"
+        ],
+        "weaknesses": [
+            "Water",
+            "Ground",
+            "Fighting",
+            "Rock"
+        ]
+    },
+    {
+        "id": 730,
+        "name": "Primarina",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/730.png",
+        "type": "Water",
+        "hp": 80,
+        "moves": [
+            "Sparkling Aria",
+            "Moonblast",
+            "Hydro Pump",
+            "Psychic"
+        ],
+        "weaknesses": [
+            "Grass",
+            "Electric",
+            "Poison"
+        ]
+    },
+    {
+        "id": 778,
+        "name": "Mimikyu",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/778.png",
+        "type": "Ghost",
+        "hp": 55,
+        "moves": [
+            "Play Rough",
+            "Shadow Claw",
+            "Shadow Sneak",
+            "Swords Dance"
+        ],
+        "weaknesses": [
+            "Ghost",
+            "Steel"
+        ]
+    },
+    {
+        "id": 791,
+        "name": "Solgaleo",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/791.png",
+        "type": "Psychic",
+        "hp": 137,
+        "moves": [
+            "Sunsteel Strike",
+            "Zen Headbutt",
+            "Earthquake",
+            "Flare Blitz"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ground",
+            "Ghost",
+            "Dark"
+        ]
+    },
+    {
+        "id": 792,
+        "name": "Lunala",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/792.png",
+        "type": "Psychic",
+        "hp": 137,
+        "moves": [
+            "Moongeist Beam",
+            "Psychic",
+            "Shadow Ball",
+            "Moonblast"
+        ],
+        "weaknesses": [
+            "Ghost",
+            "Dark"
+        ]
+    },
+    {
+        "id": 800,
+        "name": "Necrozma",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/800.png",
+        "type": "Psychic",
+        "hp": 97,
+        "moves": [
+            "Prismatic Laser",
+            "Photon Geyser",
+            "Dark Pulse",
+            "Iron Defense"
+        ],
+        "weaknesses": [
+            "Bug",
+            "Ghost",
+            "Dark"
+        ]
+    },
+    {
+        "id": 807,
+        "name": "Zeraora",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/807.png",
+        "type": "Electric",
+        "hp": 88,
+        "moves": [
+            "Plasma Fists",
+            "Close Combat",
+            "Thunder Punch",
+            "Wild Charge"
+        ],
+        "weaknesses": [
+            "Ground"
+        ]
+    },
+    {
+        "id": 812,
+        "name": "Rillaboom",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/812.png",
+        "type": "Grass",
+        "hp": 100,
+        "moves": [
+            "Drum Beating",
+            "Wood Hammer",
+            "Grassy Glide",
+            "U-turn"
+        ],
+        "weaknesses": [
+            "Fire",
+            "Ice",
+            "Flying",
+            "Psychic",
+            "Bug"
+        ]
+    },
+    {
+        "id": 815,
+        "name": "Cinderace",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/815.png",
+        "type": "Fire",
+        "hp": 80,
+        "moves": [
+            "Pyro Ball",
+            "Blaze Kick",
+            "Bounce",
+            "U-turn"
+        ],
+        "weaknesses": [
+            "Water",
+            "Ground",
+            "Rock"
+        ]
+    },
+    {
+        "id": 818,
+        "name": "Inteleon",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/818.png",
+        "type": "Water",
+        "hp": 70,
+        "moves": [
+            "Snipe Shot",
+            "Hydro Pump",
+            "Ice Beam",
+            "U-turn"
+        ],
+        "weaknesses": [
+            "Grass",
+            "Electric"
+        ]
+    },
+    {
+        "id": 888,
+        "name": "Zacian",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/888.png",
+        "type": "Fairy",
+        "hp": 92,
+        "moves": [
+            "Behemoth Blade",
+            "Play Rough",
+            "Sacred Sword",
+            "Swords Dance"
+        ],
+        "weaknesses": [
+            "Poison",
+            "Steel"
+        ]
+    },
+    {
+        "id": 889,
+        "name": "Zamazenta",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/889.png",
+        "type": "Fighting",
+        "hp": 92,
+        "moves": [
+            "Behemoth Shield",
+            "Close Combat",
+            "Iron Head",
+            "Crunch"
+        ],
+        "weaknesses": [
+            "Flying",
+            "Psychic",
+            "Fairy"
+        ]
+    },
+    {
+        "id": 890,
+        "name": "Eternatus",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/890.png",
+        "type": "Poison",
+        "hp": 140,
+        "moves": [
+            "Dynamax Cannon",
+            "Sludge Bomb",
+            "Dragon Pulse",
+            "Flamethrower"
+        ],
+        "weaknesses": [
+            "Ground",
+            "Psychic",
+            "Ice",
+            "Dragon"
+        ]
+    },
+    {
+        "id": 898,
+        "name": "Calyrex",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/898.png",
+        "type": "Psychic",
+        "hp": 100,
+        "moves": [
+            "Glacial Lance",
+            "Astral Barrage",
+            "Energy Ball",
+            "Psychic"
+        ],
+        "weaknesses": [
+            "Bug",
+            "Ghost",
+            "Dark",
+            "Fire",
+            "Ice",
+            "Flying"
+        ]
+    },
+    {
+        "id": 1007,
+        "name": "Koraidon",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1007.png",
+        "type": "Fighting",
+        "hp": 100,
+        "moves": [
+            "Collision Course",
+            "Flare Blitz",
+            "Dragon Claw",
+            "Outrage"
+        ],
+        "weaknesses": [
+            "Fairy",
+            "Flying",
+            "Psychic",
+            "Ice",
+            "Dragon"
+        ]
+    },
+    {
+        "id": 1008,
+        "name": "Miraidon",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1008.png",
+        "type": "Electric",
+        "hp": 100,
+        "moves": [
+            "Electro Drift",
+            "Draco Meteor",
+            "Thunderbolt",
+            "Volt Switch"
+        ],
+        "weaknesses": [
+            "Ground",
+            "Ice",
+            "Dragon",
+            "Fairy"
+        ]
+    },
+    {
+        "id": 1024,
+        "name": "Terapagos",
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1024.png",
+        "type": "Normal",
+        "hp": 90,
+        "moves": [
+            "Tera Starstorm",
+            "Earth Power",
+            "Ice Beam",
+            "Surf"
+        ],
+        "weaknesses": [
+            "Fighting"
+        ]
+    }
+]
